@@ -1,0 +1,12 @@
+.newAv{
+    object-fit: cover;
+}
+
+.cont{
+    margin: 0 auto;
+    margin-top: 100px !important;
+}
+.abc{
+    position: relative;
+    left: 250px;
+}
